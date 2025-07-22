@@ -73,10 +73,13 @@ Insight: Streaming and cloud-native companies are leading diversity efforts, whi
 ## Visualization
 
 Dominant Ethnicity Plot: Bar chart showing which ethnic group was most dominant per company in 2018.
--- add image here
+
+![Data Visual 1](./images/image1.png)
 
 ---
 ## Clustering Analysis
+
+![Data Visual 1](./images/image2.png)
 
 K-Means Clustering (k = 5)
 
@@ -86,12 +89,16 @@ K-Means Clustering (k = 5)
 
 - PCA was used to reduce dimensions for a 2D visualization of clusters.
 
+![Data Visual 1](./images/image3.png)
+
 --- 
 
 ## Hierarchical Clustering
 
 - Used Ward’s method and plotted a dendrogram.
 - Helped visualize how companies group together based on demographic similarity.
+
+![Data Visual 1](./images/image4.png)
 
 ---
 ## Tools & Skills Learned
