@@ -39,7 +39,11 @@ df[percent_cols] = df[percent_cols].fillna(0)
 
 - Correlation Heatmap: Helped understand relationships between gender, ethnicity, and other demographic fields.
 
+  ![Data Visual 1](./images/image5.png)
+
 - Gender Trends: Line plot showed how the average percentage of females evolved over time.
+
+![Data Visual 1](./images/image6.png)
 
 ---
 
