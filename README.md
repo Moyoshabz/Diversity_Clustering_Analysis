@@ -9,7 +9,8 @@ This project was also an opportunity to deepen my skills in data cleaning, featu
 
 ## Dataset
 Source: Kaggle
-Link
+
+Link: https://www.kaggle.com/datasets/jainaru/diversity-in-tech-companies
 
 The dataset contains workforce demographic data from several tech companies spanning multiple years (2014–2019), including percentage breakdowns by ethnicity and gender.
 
