@@ -1,5 +1,5 @@
 # Diversity_Clustering_Analysis
-Uncovering Workforce Diversity Clusters Across Tech Companies: An Unsupervised Learning Approach
+### Uncovering Workforce Diversity Clusters Across Tech Companies: An Unsupervised Learning Approach
 
 As someone passionate about equity and inclusion, I wanted to explore how diversity, especially gender and ethnicity is represented across major tech companies over time. Using real-world demographic data, I applied various data analysis, visualization, and clustering techniques to uncover patterns and insights.
 
