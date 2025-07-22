@@ -21,7 +21,7 @@ The dataset contains workforce demographic data from several tech companies span
 
 - Imputed missing values in demographic columns with 0 for meaningful calculation.
 
-``
+```
 percent_cols = ['% Asian', '% Latino', '% Black', '% Multi', '% Other', '% Undeclared']
 # Cleaned and converted to numeric
 for col in percent_cols:
@@ -29,7 +29,8 @@ for col in percent_cols:
     df[col] = df[col].astype(str).str.replace('%', '', regex=False).str.strip()
     df[col] = pd.to_numeric(df[col], errors='coerce')
 df[percent_cols] = df[percent_cols].fillna(0)
-``
+
+```
 
 ---
 
